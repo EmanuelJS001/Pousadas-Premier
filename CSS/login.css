@@ -1,0 +1,11 @@
+form {
+    background-color: rgb(92, 169, 241);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.submit {
+    height: 40px;
+    width: 50px;
+}
